@@ -1,6 +1,6 @@
 [![Python 3.9+](https://img.shields.io/badge/python-3.9+-blue.svg)](https://www.python.org/downloads/)
 [![Discord](https://discordapp.com/api/guilds/837774112419479644/widget.png?style=shield)](https://discord.gg/cUXgZAxzvs)
-####[日本語]()
+####[日本語](https://github.com/NightFall-RP/Yotsubot/blob/dev/readme_ja.md)
 
 # Hi there!
 ## This is Yotsubot, the official bot of NightFall. (A Ressurection of a old Project of mine.)
