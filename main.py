@@ -1,5 +1,5 @@
 # インプレス
-import discord
+import discard
 from discord.ext import commands
 import logging
 import os
